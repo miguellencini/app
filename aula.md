@@ -20,3 +20,19 @@ Como um logo, você irá utilizar peças para criar algoritmos, ou seja, para re
 colotar os dados
 Porcessar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados:
+
+Strings (texto): "" '' ``
+Number: 1 2.3
+Function
+
+## Operadores
+
+Operadores de atribuição de valor
+
