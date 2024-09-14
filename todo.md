@@ -1,6 +1,6 @@
 - [x] Criar metas
 - [x] Lista metas
-    - Metas realizadas
+    - [x] Metas realizadas
     - Metas abertas
 - [x] Marcar/Desmarcar metas realizadas
 - Remover metas
